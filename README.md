@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nawa's website**
 
-- 🌱 I’m currently learning **JetPack Compose**
+- 🌱 I’m currently learning **JETPACK Compose**
 
 - 👨‍💻 All of my projects are available at [https://www.loai.space/](https://www.loai.space/)
 
