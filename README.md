@@ -3,7 +3,7 @@
 <img align="right" src="https://gifdb.com/images/high/black-cat-typing-computer-bgu9ev6w2g8xo5wi.webp" alt="gif" width="300" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loairebouh&label=Profile%20views&color=0e75b6&style=flat" alt="loairebouh" /> </p>
 
-- 🔭 I’m currently working on **My App**
+- 🔭 I’m currently working on **Debt App**
 
 - 🌱 I’m currently learning **JETPACK Compose**
 
