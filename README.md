@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Debt App**
 
-- 🌱 I’m currently learning **JETPACK Compose**
+- 🌱 I’m currently learning **Expo**
 
 - 👨‍💻 All of my projects are available at [https://www.loai.space/](https://www.loai.space/)
 
